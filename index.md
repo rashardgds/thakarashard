@@ -10,6 +10,16 @@ layout: default
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
+
+![pOdAAC](https://podaac.jpl.nasa.gov/sites/all/themes/podaac/logo.png)
+
+@PODAAC [RIVER](https://podaac.jpl.nasa.gov/cloud-datasets?search=SWOT_L4_DAWG_SOS_DISCHARGE_) [awesome-gee-community-catalog
+Global Dam Watch (GDW) Database](https://gee-community-catalog.org/projects/gdw/)
+[sWORD](https://gee-community-catalog.org/projects/gdw/#dataset-citation)  SWOT River Database (SWORD)¶
+The Surface Water and Ocean Topography (SWOT) satellite mission, successfully launched in December 2022, has revolutionized our ability to observe rivers by providing vast datasets of river water surface elevation, width, and slope measurements. To maximize the utility and flexibility of this data, the SWOT mission delivers a variety of data products, including river vector data in shapefile format for each SWOT overpass. These vector products offer immense potential for multi-temporal analysis of river systems, allowing researchers to track changes in river characteristics over time. [hItIde](https://hitide.podaac.earthdatacloud.nasa.gov/#id=8odKZM&name=&version=0.1&mapState_x=-163.53717&mapState_y=-3.7152487&mapState_z=2&searchState_startDate=2000-01-01&searchState_endDate=2025-12-11&searchState_bbox=-180&searchState_bbox=-90&searchState_bbox=180&searchState_bbox=90&addedDatasets=C2251465126-POCLOUD&addedDatasets=C2596983413-POCLOUD&addedDatasets=C2596986276-POCLOUD&addedDatasets=C2075141559-POCLOUD&addedDatasets=C2147480877-POCLOUD&addedDatasets=C1940473819-POCLOUD&addedDatasets=C1940475563-POCLOUD&addedDatasets=C3309450672-POCLOUD&addedDatasets=C2901523432-POCLOUD&addedDatasets=C1996881456-POCLOUD&addedDatasets=C2205121394-POCLOUD&addedDatasets=C2075141605-POCLOUD&addedDatasets=C2832221740-POCLOUD&addedDatasets=C3401765750-POCLOUD&addedDatasets=C2706513160-POCLOUD&addedDatasets=C2847232536-POCLOUD&addedDatasets=C2847232153-POCLOUD&addedDatasets=C2754895884-POCLOUD&addedDatasets=C3233942281-POCLOUD&addedDatasets=C2799465507-POCLOUD&addedDatasets=C3233942272-POCLOUD&addedDatasets=C2799465497-POCLOUD&addedDatasets=C3233942270-POCLOUD&addedDatasets=C2799465428-POCLOUD&addedDatasets=C2036877495-POCLOUD&addedDatasets=C2036877502-POCLOUD&addedDatasets=C2036877509-POCLOUD) 
+
+
+![SWAT](https://agupubs.onlinelibrary.wiley.com/cms/asset/10619907-6ea8-415a-a83f-fccf1c0e7d03/wrcr25408-fig-0001-m.jpg) 
 [Aviris5](https://airbornescience.nasa.gov/instrument/Airborne_Visible_Infrared_Imaging_Spectrometer_5)
 ![LBTV](https://www.longbeach.gov/globalassets/lbtv/development-assets/lbtvlogo.jpg) 
 
